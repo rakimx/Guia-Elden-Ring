@@ -1,0 +1,17 @@
+{
+    "Radahn": {
+        "coordinates": [300, 200],
+        "image": "images/radahn.jpg",
+        "drop_image": "images/radahn_drop.jpg"
+    },
+    "Godrick the Grafted": {
+        "coordinates": [400, 300],
+        "image": "images/godrick.jpg",
+        "drop_image": "images/godrick_drop.jpg"
+    },
+    "Malenia": {
+        "coordinates": [500, 400],
+        "image": "images/malenia.jpg",
+        "drop_image": "images/malenia_drop.jpg"
+    }
+}
